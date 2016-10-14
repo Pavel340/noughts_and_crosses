@@ -31,10 +31,6 @@ body {
 .actions {
   text-align: center;
 }
-.ai {
-  background-color:red; 
-  );
-}
 .container {
   margin: 50px auto;
   width: 500px;
@@ -51,4 +47,7 @@ body {
 }
 .player {
   background-color: green;
+}
+.ai {
+  background-color:red; 
 }
